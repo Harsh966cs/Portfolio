@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Weather Web Application",
+    "desc": "Developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Using the OpenWeather API to retrieve weather information.",
+    "image": "weather",
+    "category": "mern",
+    "links": {
+      "view": "https://images.unsplash.com/photo-1501630834273-4b5604d2ee31?auto=format&fit=crop&w=1200&q=80",
+      "code": "https://github.com/Harsh966cs/wether-application966"
+    }
+  },
+  {
+    "name": "Police Feedback System",
+    "desc": "Facilitates citizen feedback on police services in Rajasthan. Utilized sm2p Library for OTP Management for email and SMS verification.",
+    "image": "Police",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/harshsoniincs"
+    }
+  },
+  {
+    "name": "Spotify Web Page",
+    "desc": "Utilized HTML for structuring the web page, ensuring a visually appealing and responsive layout",
+    "image": "spoify",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/harshsoniincs"
+    }
+  }
+]
