@@ -5,7 +5,7 @@
     "image": "weather",
     "category": "mern",
     "links": {
-      "view": "https://images.unsplash.com/photo-1501630834273-4b5604d2ee31?auto=format&fit=crop&w=1200&q=80",
+      "view": "https://wether-application966-mhhg-git-main-harsh-s-projects-ea77d6fd.vercel.app/",
       "code": "https://github.com/Harsh966cs/wether-application966"
     }
   },
@@ -25,8 +25,8 @@
     "image": "spoify",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "https://github.com/harshsoniincs"
+      "view": "https://spotifyharsh--five.vercel.app/",
+      "code": "https://github.com/Harsh966cs/spotifyharsh-"
     }
   }
 ]
